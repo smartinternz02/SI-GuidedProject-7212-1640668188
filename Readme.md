@@ -1,8 +1,7 @@
-# Wild Plants Produce Edibility Prediction Using IBM Watson
-The rural communities of developing countries depend on wild edible plants to meet their food requirements during periods of food shortage. 
-Wild edible plants are mostly serving as supplementary foods in different parts of the world because they are nutritionally rich and can supplement 
-especially vitamins and micro nutrients. Therefore, with the use of Convolution Neural Networks(CNN), we created a Flask application where the user 
-selects the image which is to be classified. The image is fed into the model that is trained and the predicted class will be displayed on the webpage. 
+# Wild Plants Edibility Prediction Using IBM Watson - SmartInternz Externship
+
+Some wild plants are edible , but identifying them can be time consuming. So with the use of Convolution Neural Networks(CNN), we trained our image classifier on a variety of mountainous and wild edible plant images. The user inputs an image into our webpage  supported with Flask ,which serves as the frontend of the model. The model classifies it and predicts the class of wild plant and states if it is edible or not.
+We have trained this model on a wide dataset of images. It's accuracy is generally quite high.
 
 # Team Members
 1. Asmi Panigrahi      (19BAI10185)
@@ -12,18 +11,19 @@ selects the image which is to be classified. The image is fed into the model tha
 
 # Applications Used
 * Jupyter Notebook
+* Microsoft Visual Studio Code - Python Error Auditing only
 
 # Machine Learning Libraries Used
-* FLask
 * Numpy
 * Tensorflow
 * Keras
 
-# Web Development Applications Used
+# Web Development Libraries and Tech Used
 * HTML
 * CSS
 * Javascript
 * Python Libraries
+* FLask
 
 
 
