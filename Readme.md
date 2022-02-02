@@ -19,4 +19,11 @@ selects the image which is to be classified. The image is fed into the model tha
 * Tensorflow
 * Keras
 
+# Web Development Applications Used
+* HTML
+* CSS
+* Javascript
+* Python Libraries
+
+
 
