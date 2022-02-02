@@ -1,4 +1,4 @@
-# Wild-Plants-Produce-Edibility-Prediction
+# Wild Plants Produce Edibility Prediction Using IBM Watson
 The rural communities of developing countries depend on wild edible plants to meet their food requirements during periods of food shortage. 
 Wild edible plants are mostly serving as supplementary foods in different parts of the world because they are nutritionally rich and can supplement 
 especially vitamins and micro nutrients. Therefore, with the use of Convolution Neural Networks(CNN), we created a Flask application where the user 
