@@ -5,13 +5,12 @@ especially vitamins and micro nutrients. Therefore, with the use of Convolution 
 selects the image which is to be classified. The image is fed into the model that is trained and the predicted class will be displayed on the webpage. 
 
 # Team Members
-1. Asmi Panigrahi (19BAI10185)
-2. Sirshak Sarkar (19BCY10127)
-3. Sapratibh Dev (19BEE10050)
-4. Viplav Khubchandani (19BEE0299)
+1. Asmi Panigrahi      (19BAI10185)
+2. Sirshak Sarkar      (19BCY10127)
+3. Sapratibh Dev       (19BCY10112)
+4. Viplav Khubchandani (19BAI10106)
 
 # Applications Used
-* Spyder
 * Jupyter Notebook
 
 # Machine Learning Libraries Used
